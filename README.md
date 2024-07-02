@@ -1,3 +1,3 @@
-* Tutorial FastAPI
+1. Tutorial FastAPI
 
 Tutorial for FastAPI upskill.
